@@ -1,0 +1,27 @@
+.heading{ 
+    color: green;
+    /* background-color: ; */
+    font-size: 40px; 
+    padding: 8px; 
+}
+
+.heading2{
+color: violet;
+font-size: 20px; 
+background-color:yellow;
+}
+
+myStyle{
+    background-color: chocolate;
+    font-size: 100px;
+    padding: 10px
+}
+
+.myimagestyle{
+    background-size:contain; 
+    background-image:url("image.jpg");
+}
+
+.paragraph{
+    font-family: fantasy;
+}
